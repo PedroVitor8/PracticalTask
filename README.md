@@ -1,2 +1,2 @@
 # Hello-World
-Page in HTML
+Page in HTML, CSS and Javascript
