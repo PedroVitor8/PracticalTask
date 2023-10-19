@@ -1,2 +1,2 @@
-# Hello-World
+# PracticalTask
 Page in HTML, CSS and Javascript
